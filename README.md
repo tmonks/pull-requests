@@ -1,1 +1,4 @@
-# pull-requests
+# Pull Requests
+
+## Contributors
+Peter B Smith
